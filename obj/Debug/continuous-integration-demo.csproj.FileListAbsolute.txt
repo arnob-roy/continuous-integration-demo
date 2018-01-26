@@ -1,0 +1,4 @@
+C:\continuous-integration-demo\continuous-integration-demo\bin\continuous-integration-demo.dll
+C:\continuous-integration-demo\continuous-integration-demo\bin\continuous-integration-demo.pdb
+C:\continuous-integration-demo\continuous-integration-demo\obj\Debug\continuous-integration-demo.dll
+C:\continuous-integration-demo\continuous-integration-demo\obj\Debug\continuous-integration-demo.pdb
