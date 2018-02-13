@@ -21,7 +21,7 @@ namespace continuous_integration_demo
                 //lb_status.Visible = true;
                 //lb_status.Text = "login passed";
 
-                //Session["user"] = tb_uid.Text;
+                Session["user"] = tb_uid.Text;
                 Response.Redirect("~/Home.aspx", true);
             }
             else
