@@ -18,11 +18,11 @@ namespace continuous_integration_demo
         {
             if (tb_uid.Text == "arnob.roy" && tb_pwd.Text == "roy@123")
             {
-                lb_status.Visible = true;
-                lb_status.Text = "login passed";
+                //lb_status.Visible = true;
+                //lb_status.Text = "login passed";
 
                 //Session["user"] = tb_uid.Text;
-                //Response.Redirect("~/Home.aspx", true);
+                Response.Redirect("~/Home.aspx", true);
             }
             else
             {
